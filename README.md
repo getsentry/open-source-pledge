@@ -22,3 +22,5 @@ last year.
   Sponsors](https://github.com/open-source/sponsors). This goes on the
 [Syntax.fm org account](https://github.com/syntaxfm) for them to distribute as
 they see fit.
+
+Vlad's [tldraw about this](https://www.tldraw.com/f/X1PtdwSAxk1w0MPKwoTEg?d=v-356.572.1821.1299.page).
